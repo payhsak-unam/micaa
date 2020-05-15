@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "571456996854",
+    "firebase_url": "https://micam-70e4c.firebaseio.com",
+    "project_id": "micam-70e4c",
+    "storage_bucket": "micam-70e4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571456996854:android:2582e7816e65f8e572b3d7",
+        "android_client_info": {
+          "package_name": "com.example.mica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571456996854-r1butvn2bcc60khdihd9aquigp6vca8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mica",
+            "certificate_hash": "8cde22d3cceb5a41ecff54d15f6a83850e2449c8"
+          }
+        },
+        {
+          "client_id": "571456996854-s07s96dsk8t5m6qic3qdanbqemdp68no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNwgqZPM0fQBhTQCL50B8jaxSTKxHFvAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571456996854-s07s96dsk8t5m6qic3qdanbqemdp68no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

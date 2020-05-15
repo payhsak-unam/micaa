@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryDark">#FFA000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="whitee">#FFFFFF</color>
+<color name="green">#00bfa5</color>
+    <color name="yello">#ffb300</color>
+    <color name="depurple">#7c4dff</color>
+    <color name="backgroundd">#fcfcfc</color>
+    <color name="liht_med_gray">#C7C6C6</color>
+    <color name="med_gray">#FFA09E9E</color>
+    <color name="fav_icon_color">#CAC7C7</color>
+</resources>
